@@ -16,7 +16,7 @@ I keep constantly learning or incorporating knowledge from others, which allows 
 
 Learning Data Science nowadays. I worked as a Geoespacial Data Analyst. 
 
-- Very interested about Geoespacial Data Science using Geopandas, ArcGIS Products.
+- Very interested about Geospacial Data Science using Geopandas, ArcGIS Products.
 - Tutor of a geospatial data science begginer course.
 - University has given me a good foundation in mathematics, physics, statistics for analysis.
 
